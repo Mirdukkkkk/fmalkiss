@@ -1,2 +1,2 @@
 **Привет 👋**
-[![Stats](https://github-readme-stats.vercel.app/api?username=fmalkiss&include_all_commits=true&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Mirdukkkkk&include_all_commits=true&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
