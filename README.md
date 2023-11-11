@@ -1,2 +1,1 @@
-**Hello 👋**
-This is my GitHub page, nothing more xD
+**Hello 👋**, this is my GitHub page, nothing more xD
