@@ -1,1 +1,1 @@
-**Hello 👋**, this is my GitHub page, nothing more xD
+**Hello 👋**, welcome to my GitHub page, make yourself at home =)
